@@ -23,13 +23,8 @@ public class HelloDao {
     
     }
 
-    public void a(){
-    }
-    public bbb(){
+    public void a(Integer i){
     }
 
-    public void aaa(){
-
-    }
 
 }
