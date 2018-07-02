@@ -23,13 +23,9 @@ public class HelloDao {
     
     }
 
-    public void a(){
-    }
-    public void bbb(){
+    public void a(String str){
     }
 
-    public void aaa(){
 
-    }
 
 }
