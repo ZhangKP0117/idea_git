@@ -25,7 +25,7 @@ public class HelloDao {
 
     public void a(){
     }
-    public bbb(){
+    public void bbb(){
     }
 
     public void aaa(){
