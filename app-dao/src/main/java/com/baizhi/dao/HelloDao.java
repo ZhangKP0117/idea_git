@@ -19,4 +19,7 @@ public class HelloDao {
 
     }
 
+    public void a(){
+    }
+
 }
