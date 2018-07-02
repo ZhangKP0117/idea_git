@@ -23,8 +23,10 @@ public class HelloDao {
     
     }
 
+    public void a(String str){
     public void a(Integer i){
     }
+
 
 
 }
