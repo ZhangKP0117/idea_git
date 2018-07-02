@@ -11,4 +11,8 @@ public class HelloDao {
 
     }
 
+    public void m1(){
+
+    }
+
 }
