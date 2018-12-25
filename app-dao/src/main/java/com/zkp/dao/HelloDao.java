@@ -28,7 +28,7 @@ public class HelloDao {
     }
 
 
-    public void ccc(){
+    public void c(){
 
     }
 
